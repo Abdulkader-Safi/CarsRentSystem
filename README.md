@@ -7,9 +7,14 @@ database file query.sql
 
 login:
 email:
-  >> admin@admin.com
+```
+admin@admin.com
+```
 password:
-  >> Admin
+ Admin
+ ```
+Admin
+```
 
 
 after that you can create an Employee then log in from employee account
